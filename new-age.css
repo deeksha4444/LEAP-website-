@@ -5,8 +5,8 @@
  */
 html,
 body {
-  width: 50%;
-  height: 50%; }
+  width: 100%;
+  height: 100%; }
 
 body {
   font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif'; }
@@ -46,7 +46,7 @@ p {
 section {
   padding: 100px 0; }
   section h2 {
-    font-size: 30px; }
+    font-size: 50px; }
 
 #mainNav {
   border-color: rgba(34, 34, 34, 0.05);
@@ -61,7 +61,7 @@ section {
 
   #mainNav .navbar-brand {
     color: #fdcc52;
-    font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
+    font-family: 'Catamaran', 'Arial', 'Arial', 'sans-seorff';
     font-weight: 200;
     letter-spacing: 1px; }
     #mainNav .navbar-brand:hover, #mainNav .navbar-brand:focus {
